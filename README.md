@@ -4,7 +4,7 @@ Here is my application for C# Dev in QA.
 This console program syncs 2 chosen folders and logs the events on both the console interface and the log.txt file
 
 HOW TO USE
-1.Complete the config.json file to specify the following:
+1.Complete the config.json file to specify the following: <br>
   -source folder path;
   -replica folder path;
   -sync interval(in seconds);
