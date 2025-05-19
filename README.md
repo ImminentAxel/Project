@@ -1,6 +1,6 @@
 # Project
 FolderSync
-Here is my application for C# Dev in QA.<br>
+Here is my application for C# Dev.<br>
 This console program syncs 2 chosen folders and logs the events on both the console interface and the log.txt file.
 Both the config.json and FolderSync.exe can be found in the net6.0 directory.
 
